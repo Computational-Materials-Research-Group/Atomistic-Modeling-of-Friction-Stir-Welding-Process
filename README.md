@@ -2,8 +2,8 @@
 
 A molecular dynamics simulation of the Friction Stir Welding process for joining two aluminum workpieces using LAMMPS (Large-scale Atomic/Molecular Massively Parallel Simulator).
 
+<img width="1600" height="1200" alt="fsw1" src="https://github.com/user-attachments/assets/25b9ce0c-d7f1-41d9-8e24-869e6e997d5d" />
 
-[fsw1.tif](https://github.com/user-attachments/files/24041650/fsw1.tif)
 
 ## Overview
 
