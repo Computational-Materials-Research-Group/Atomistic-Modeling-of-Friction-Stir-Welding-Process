@@ -209,7 +209,7 @@ If you use this simulation in your research, please cite:
 ```
 [Akshansh Mishra]
 Atomistic Modeling of Friction-Stir Welding-Process
-GitHub Repository: [Your Repo URL]
+GitHub Repository: [https://github.com/akshansh11]
 Year: 2025
 ```
 
